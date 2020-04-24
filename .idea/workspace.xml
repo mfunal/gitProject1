@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="afb661ef-686f-4944-9597-550a55c1d4f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitFriday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitFriday.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,5 +96,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="295" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1587673413301" />
+    <state x="217" y="147" key="new project wizard" timestamp="1587754523648">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="217" y="147" key="new project wizard/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1587754523648" />
   </component>
 </project>
